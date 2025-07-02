@@ -1,9 +1,10 @@
 # Hello, friend.
 ### Meu nome é Luís Mendes
 
-- 💻 Estou trabalhando com projetos em python e bash
+- 💻 Estou estudando programação e criando aplicações (Python, Flask, HTML, CSS, JS)
 - 📖 Estou estudando segurança da informação / pentest / vulnerabilidades
 - 🤹🏽 Outras habilidades: eletrônica, engenharia elétrica, tatuador e músico amador.
+- ⚡Hardware: Arduino, ESP32, ESP8266, Sensores, Maker e DIY!
 
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=mendes79&show_icons=true&theme=yeblu)
